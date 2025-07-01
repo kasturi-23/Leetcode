@@ -20,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

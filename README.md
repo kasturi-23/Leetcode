@@ -9,6 +9,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/kasturi-23/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kasturi-23/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/kasturi-23/Leetcode/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |

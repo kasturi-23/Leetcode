@@ -12,6 +12,7 @@
 | [0605-can-place-flowers](https://github.com/kasturi-23/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kasturi-23/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->

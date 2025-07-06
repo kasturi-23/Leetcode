@@ -11,6 +11,7 @@
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kasturi-23/Leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kasturi-23/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 | [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kasturi-23/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

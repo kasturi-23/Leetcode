@@ -51,11 +51,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kasturi-23/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kasturi-23/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -71,5 +73,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kasturi-23/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

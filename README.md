@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/kasturi-23/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kasturi-23/Leetcode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/kasturi-23/Leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kasturi-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/kasturi-23/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kasturi-23/Leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kasturi-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

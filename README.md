@@ -27,6 +27,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -71,6 +72,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kasturi-23/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -105,4 +107,5 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasturi-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

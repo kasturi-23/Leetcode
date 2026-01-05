@@ -20,6 +20,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kasturi-23/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kasturi-23/Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/kasturi-23/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Counting
 |  |
 | ------- |

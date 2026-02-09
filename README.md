@@ -23,6 +23,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kasturi-23/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kasturi-23/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/kasturi-23/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kasturi-23/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -102,6 +103,7 @@
 | [0238-product-of-array-except-self](https://github.com/kasturi-23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/kasturi-23/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/kasturi-23/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/kasturi-23/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |

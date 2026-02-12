@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/kasturi-23/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/kasturi-23/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/kasturi-23/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/kasturi-23/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1470-shuffle-the-array](https://github.com/kasturi-23/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kasturi-23/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kasturi-23/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/kasturi-23/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1207-unique-number-of-occurrences](https://github.com/kasturi-23/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kasturi-23/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search

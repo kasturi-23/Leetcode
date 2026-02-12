@@ -27,6 +27,7 @@
 | [1732-find-the-highest-altitude](https://github.com/kasturi-23/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kasturi-23/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/kasturi-23/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kasturi-23/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |

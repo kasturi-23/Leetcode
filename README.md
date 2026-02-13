@@ -54,6 +54,7 @@
 | [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0859-buddy-strings](https://github.com/kasturi-23/Leetcode/tree/master/0859-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/kasturi-23/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1207-unique-number-of-occurrences](https://github.com/kasturi-23/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kasturi-23/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -102,6 +103,7 @@
 | [0392-is-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kasturi-23/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0859-buddy-strings](https://github.com/kasturi-23/Leetcode/tree/master/0859-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kasturi-23/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kasturi-23/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kasturi-23/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |

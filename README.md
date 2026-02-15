@@ -29,6 +29,7 @@
 | [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kasturi-23/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/kasturi-23/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/kasturi-23/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/kasturi-23/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/kasturi-23/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3713-longest-balanced-substring-i](https://github.com/kasturi-23/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
@@ -124,12 +126,14 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kasturi-23/Leetcode/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/kasturi-23/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2352-equal-row-and-column-pairs](https://github.com/kasturi-23/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kasturi-23/Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/kasturi-23/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/kasturi-23/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Counting
 |  |

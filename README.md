@@ -105,6 +105,7 @@
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/kasturi-23/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0859-buddy-strings](https://github.com/kasturi-23/Leetcode/tree/master/0859-buddy-strings) |
@@ -171,6 +172,11 @@
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kasturi-23/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kasturi-23/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

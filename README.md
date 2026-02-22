@@ -102,6 +102,7 @@
 | [0014-longest-common-prefix](https://github.com/kasturi-23/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kasturi-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
+| [0071-simplify-path](https://github.com/kasturi-23/Leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kasturi-23/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/kasturi-23/Leetcode/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kasturi-23/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kasturi-23/Leetcode/tree/master/2390-removing-stars-from-a-string) |

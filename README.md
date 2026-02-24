@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/kasturi-23/Leetcode/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kasturi-23/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasturi-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kasturi-23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kasturi-23/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kasturi-23/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0859-buddy-strings](https://github.com/kasturi-23/Leetcode/tree/master/0859-buddy-strings) |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kasturi-23/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
@@ -147,6 +150,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/kasturi-23/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kasturi-23/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/kasturi-23/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -185,4 +189,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

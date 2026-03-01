@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kasturi-23/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kasturi-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kasturi-23/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kasturi-23/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kasturi-23/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kasturi-23/Leetcode/tree/master/0283-move-zeroes) |
@@ -43,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kasturi-23/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/kasturi-23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kasturi-23/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kasturi-23/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -74,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kasturi-23/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/kasturi-23/Leetcode/tree/master/1004-max-consecutive-ones-iii) |

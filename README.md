@@ -41,6 +41,7 @@
 | [0011-container-with-most-water](https://github.com/kasturi-23/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kasturi-23/Leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kasturi-23/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/kasturi-23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/kasturi-23/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
@@ -111,6 +112,7 @@
 | [0043-multiply-strings](https://github.com/kasturi-23/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kasturi-23/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/kasturi-23/Leetcode/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/kasturi-23/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |

@@ -64,6 +64,7 @@
 | [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/kasturi-23/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kasturi-23/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-buddy-strings](https://github.com/kasturi-23/Leetcode/tree/master/0859-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/kasturi-23/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1207-unique-number-of-occurrences](https://github.com/kasturi-23/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -120,6 +121,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/kasturi-23/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/kasturi-23/Leetcode/tree/master/0443-string-compression) |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kasturi-23/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/kasturi-23/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kasturi-23/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/kasturi-23/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -211,6 +214,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kasturi-23/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/kasturi-23/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/kasturi-23/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream

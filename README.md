@@ -99,6 +99,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/kasturi-23/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/kasturi-23/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/kasturi-23/Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/kasturi-23/Leetcode/tree/master/0649-dota2-senate) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/kasturi-23/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0649-dota2-senate](https://github.com/kasturi-23/Leetcode/tree/master/0649-dota2-senate) |
 | [0859-buddy-strings](https://github.com/kasturi-23/Leetcode/tree/master/0859-buddy-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kasturi-23/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kasturi-23/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -209,6 +211,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/kasturi-23/Leetcode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/kasturi-23/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |

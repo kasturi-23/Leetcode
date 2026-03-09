@@ -56,6 +56,7 @@
 | [0541-reverse-string-ii](https://github.com/kasturi-23/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kasturi-23/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/kasturi-23/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

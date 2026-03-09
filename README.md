@@ -203,6 +203,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
@@ -225,6 +226,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->

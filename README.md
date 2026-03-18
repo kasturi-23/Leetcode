@@ -61,6 +61,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/kasturi-23/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/kasturi-23/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/kasturi-23/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@
 | [0234-palindrome-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kasturi-23/Leetcode/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/kasturi-23/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -246,4 +248,5 @@
 | [0234-palindrome-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->

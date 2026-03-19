@@ -203,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/kasturi-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kasturi-23/Leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/kasturi-23/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kasturi-23/Leetcode/tree/master/0735-asteroid-collision) |
@@ -249,4 +250,16 @@
 | [0328-odd-even-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kasturi-23/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

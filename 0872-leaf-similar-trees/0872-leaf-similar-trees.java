@@ -15,51 +15,34 @@
  */
 class Solution {
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-        ArrayList<Integer> arr1= new ArrayList<>();
-        ArrayList<Integer> arr2= new ArrayList<>();
-        Stack<TreeNode> st1 = new Stack<TreeNode>();
-        Stack<TreeNode> st2 = new Stack<TreeNode>();
-        boolean result=false;
-        st1.push(root1);
-        st2.push(root2);
-        if(root1==null && root2==null){result = true;}
-        if(root1!=null && root2==null){result =  false;}
+        ArrayList<Integer> arr1 = getLeaves(root1);
+        ArrayList<Integer> arr2 = getLeaves(root2);
         
-        if(root1==null && root2!=null){result = false;}
-        while(!st1.isEmpty() ){
-            root1 = st1.pop();
+        return arr1.equals(arr2);
+    }
+    
+    public ArrayList<Integer> getLeaves(TreeNode root) {
+        ArrayList<Integer> arr = new ArrayList<>();
+        Stack<TreeNode> st = new Stack<>();
+        
+        if (root == null) return arr;
+        
+        st.push(root);
+        
+        while (!st.isEmpty()) {
+            TreeNode node = st.pop();
             
-            if(root1.right!=null){
-                st1.push(root1.right);
+            if (node.right != null) {
+                st.push(node.right);
             }
-            if(root1.left!=null){
-                st1.push(root1.left);
+            if (node.left != null) {
+                st.push(node.left);
             }
-            if(root1.left==null && root1.right==null){
-                arr1.add(root1.val);
-            }}
-            while(!st2.isEmpty()){
-                root2=st2.pop();
-
-            
-            if(root2.right!=null){
-                st2.push(root2.right);
+            if (node.left == null && node.right == null) {
+                arr.add(node.val);
             }
-            if(root2.left!=null){
-                st2.push(root2.left);
-            }
-            if(root2.left==null && root2.right==null){
-                arr2.add(root2.val);
-            }
-
-
         }
-        if(arr1.equals(arr2)){
-            result = true;
-        }
-        else{
-            result=false;
-        }
-        return result;
+        
+        return arr;
     }
 }

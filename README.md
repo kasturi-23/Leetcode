@@ -258,6 +258,7 @@
 | [0100-same-tree](https://github.com/kasturi-23/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasturi-23/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/kasturi-23/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@
 | [0100-same-tree](https://github.com/kasturi-23/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasturi-23/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/kasturi-23/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0100-same-tree](https://github.com/kasturi-23/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kasturi-23/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kasturi-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/kasturi-23/Leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
